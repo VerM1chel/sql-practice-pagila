@@ -1,1 +1,1 @@
-# task3
+# sql-practice-pagila
